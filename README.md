@@ -12,6 +12,10 @@ Instead of bookmarking them, I'll keep a list here on Github for people to see, 
 ### Colors
 - [Kuler](https://kuler.adobe.com/create/color-wheel/)
 
+### .htaccess
+- [THE Ultimate Htaccess](http://www.askapache.com/htaccess/htaccess.html)
+- [htaccess tester](http://htaccess.madewithlove.be/)
+
 ### Images
 - [Yahoo! Smush.it](http://www.smushit.com/ysmush.it/)
 
@@ -28,3 +32,9 @@ Instead of bookmarking them, I'll keep a list here on Github for people to see, 
 ### Regular Expressions
 - [Regex tester](http://regexpal.com/)
 - [Regular Expressions Cheat Sheet](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+
+### Shell, command line
+- [explainshell](http://explainshell.com/)
+
+### Version control
+- [Diff checker](http://www.diffchecker.com/)
