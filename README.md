@@ -37,7 +37,7 @@ Instead of bookmarking them, I'll keep a list here on Github for people to see, 
 - [explainshell](http://explainshell.com/)
 
 ### Validators
-= [W3C Markup Validator](http://validator.w3.org/)
+- [W3C Markup Validator](http://validator.w3.org/)
 
 ### Version control
 - [Diff checker](http://www.diffchecker.com/)
