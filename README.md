@@ -30,6 +30,7 @@ Instead of bookmarking them, I'll keep a list here on Github for people to see, 
 - [Entity Lookup](http://entity-lookup.leftlogic.com/)
 
 ### Regular Expressions
+- [RegExr](http://www.regexr.com/) - online testing tool
 - [Regex tester](http://regexpal.com/)
 - [Regular Expressions Cheat Sheet](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
